@@ -16,3 +16,7 @@
 <p align="center">
   <img src="https://telegra.ph/file/ca95213f8c1dd9a19c239.jpg">
 </p>
+
+<p align="center">
+<a href="https://telegram.me/BTSChinna"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
