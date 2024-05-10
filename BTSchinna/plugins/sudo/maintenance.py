@@ -1,9 +1,9 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AnonXMusic import app
-from AnonXMusic.misc import SUDOERS
-from AnonXMusic.utils.database import (
+from BTSchinna import app
+from BTSchinna.misc import SUDOERS
+from BTSchinna.utils.database import (
     get_lang,
     is_maintenance,
     maintenance_off,
