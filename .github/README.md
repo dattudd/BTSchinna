@@ -1,6 +1,5 @@
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
+<h2 align="center">
+    ──「  𝐊𝐢𝐝 ダ 𝐦𝐮𝐬𝐢𝐜──
 
 
 <p align="center">
