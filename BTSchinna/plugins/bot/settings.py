@@ -25,9 +25,9 @@ from BTSchinna.utils.database import (
     skip_off,
     skip_on,
 )
-from AnonXMusic.utils.decorators.admins import ActualAdminCB
-from AnonXMusic.utils.decorators.language import language, languageCB
-from AnonXMusic.utils.inline.settings import (
+from BTSchinna.utils.decorators.admins import ActualAdminCB
+from BTSchinna.utils.decorators.language import language, languageCB
+from BTSchinna.utils.inline.settings import (
     auth_users_markup,
     playmode_users_markup,
     setting_markup,
