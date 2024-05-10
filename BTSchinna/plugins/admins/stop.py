@@ -1,11 +1,11 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AnonXMusic import app
-from AnonXMusic.core.call import Anony
-from AnonXMusic.utils.database import set_loop
-from AnonXMusic.utils.decorators import AdminRightsCheck
-from AnonXMusic.utils.inline import close_markup
+from BTSchinna import app
+from BTSchinna.core.call import Anony
+from BTSchinna.utils.database import set_loop
+from BTSchinna.utils.decorators import AdminRightsCheck
+from BTSchinna.utils.inline import close_markup
 from config import BANNED_USERS
 
 
