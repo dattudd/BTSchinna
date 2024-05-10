@@ -5,11 +5,11 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from AnonXMusic import LOGGER, app, userbot
-from AnonXMusic.core.call import Anony
-from AnonXMusic.misc import sudo
-from AnonXMusic.plugins import ALL_MODULES
-from AnonXMusic.utils.database import get_banned_users, get_gbanned
+from BTSchinna import LOGGER, app, userbot
+from BTSchinna.core.call import Anony
+from BTSchinna.misc import sudo
+from BTSchinna.plugins import ALL_MODULES
+from BTSchinna.utils.database import get_banned_users, get_gbanned
 from config import BANNED_USERS
 
 
