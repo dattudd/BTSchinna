@@ -2,14 +2,14 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, Message
 
 import config
-from AnonXMusic import YouTube, app
-from AnonXMusic.core.call import Anony
-from AnonXMusic.misc import db
-from AnonXMusic.utils.database import get_loop
-from AnonXMusic.utils.decorators import AdminRightsCheck
-from AnonXMusic.utils.inline import close_markup, stream_markup
-from AnonXMusic.utils.stream.autoclear import auto_clean
-from AnonXMusic.utils.thumbnails import get_thumb
+from BTSchinna import YouTube, app
+from BTSchinna.core.call import Anony
+from BTSchinna.misc import db
+from BTSchinna.utils.database import get_loop
+from BTSchinna.utils.decorators import AdminRightsCheck
+from BTSchinna.utils.inline import close_markup, stream_markup
+from BTSchinna.utils.stream.autoclear import auto_clean
+from BTSchinna.utils.thumbnails import get_thumb
 from config import BANNED_USERS
 
 
